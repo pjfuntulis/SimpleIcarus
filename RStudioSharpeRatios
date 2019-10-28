@@ -1,4 +1,4 @@
-#RiskParityPortfolio
+#Sharpe Ratios in R Studio
 #Prepare
 #install.packages(c('quantmod','PortfolioAnalytics','foreach'))
 #install.packages(c('DEoptim','ROI','ROI.plugin.glpk','ROI.plugin.quadprog'))
