@@ -1,4 +1,4 @@
-  #Sharpe Ratios in R Studio, based on Dr. Stephen Rush's code
+  #Sharpe Ratios in R Studio, based on Dr. Stephen Rush's code.  Analyzes a subset of funds provided by Ohio Deferred Compensation.
 	#Prepare
 	#install.packages(c('quantmod','PortfolioAnalytics','foreach'))
 	#install.packages(c('DEoptim','ROI','ROI.plugin.glpk','ROI.plugin.quadprog'))
