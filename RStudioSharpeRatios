@@ -1,4 +1,4 @@
-#Sharpe Ratios in R Studio
+#Sharpe Ratios in R Studio, based on Dr. Stephen Rush's code
 #Prepare
 #install.packages(c('quantmod','PortfolioAnalytics','foreach'))
 #install.packages(c('DEoptim','ROI','ROI.plugin.glpk','ROI.plugin.quadprog'))
